@@ -1,0 +1,13 @@
+roteiro:
+  atenas:
+    prompt: |
+      Listar três pontos turísticos principais de Atenas, incluindo o número anual de visitantes e uma breve descrição de cada um:
+      - Acrópole de Atenas: Recebe aproximadamente 2 milhões de visitantes por ano. Este antigo complexo de edifícios é famoso pelo Parthenon, um templo dedicado à deusa Atena, padroeira da cidade.
+      - Museu da Acrópole: Com mais de 1,5 milhão de visitantes anuais, o museu abriga artefatos encontrados nas escavações da Acrópole.
+      - Ágora de Atenas: Este antigo mercado e ponto de encontro recebe cerca de 500 mil visitantes por ano, destacando-se pelas suas ruínas bem preservadas e a histórica Estoa de Átalo.
+  roma:
+    prompt: |
+      Listar três pontos turísticos principais de Roma, incluindo o número anual de visitantes e uma breve descrição de cada um:
+      - Coliseu: Este anfiteatro histórico é um dos principais símbolos de Roma, atraindo cerca de 7,6 milhões de visitantes por ano.
+      - Fonte de Trevi: Uma das fontes mais famosas do mundo, visitada por aproximadamente 7 milhões de pessoas anualmente.
+      - Vaticano: Incluindo a Basílica de São Pedro e os Museus Vaticanos, o Vaticano é um epicentro da arte e religião, atraindo milhões de fiéis e amantes da arte cada ano.
